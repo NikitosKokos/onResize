@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 gulpfile.js
-/src
+/#src
 /onResize/css
 /onResize/index.html
 
